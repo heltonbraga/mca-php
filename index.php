@@ -1,3 +1,3 @@
 <?php
-echo "testando o básico"
+echo "testando o básico - V2"
 ?>
